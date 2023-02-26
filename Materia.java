@@ -25,7 +25,4 @@ public class Materia {
     public void setClave(String clave) {
         this.clave = clave;
     }
-    
-}
-
-///easd
+} hola mundo 

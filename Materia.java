@@ -6,7 +6,7 @@ public class Escuela {
     public Escuela(String nombre){
         this.Nombre=nombre;
     }
-    public ListadoAlumnos void(){
+    public void ListadoAlumnos (){
 
     }
     public void listadoCarr (){

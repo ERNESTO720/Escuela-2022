@@ -4,9 +4,7 @@ public class Escuela {
     public void alumnos(){Alumnos=new int [1];}
     private int Clases[];
     public void clases(){Clases=new int  [1];}
-    public String Mat[];
-    public void mat(){Mat=new int [1];}
-
+    public String Mat[]=new String [1];
     public Escuela(String nombre){
         this.Nombre=nombre;
     }

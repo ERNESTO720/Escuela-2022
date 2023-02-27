@@ -9,5 +9,13 @@ public class Escuela {
     public ListadoAlumnos void(){
 
     }
+    public void listadoCarr (){
+
+    }
+    public void listadoClaseProm(){
     
+    }
+    public void listadoMatporCarr(){
+    
+    }
 }
